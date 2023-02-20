@@ -1,4 +1,7 @@
 # Data Analytics Project: Exploring the Bitcoin Cryptocurrency Market
+
+Hundreds of related projects based on the blockchain technology have emerged since the launch of Bitcoin in 2008. They are known as cryptocurrencies. Some have the potential to become very valuable in the future, while others are already very valuable. In this project, I will be using Dataframes to  understand the growth and impact of cryptocurrencies.
+
 This project covers the following stages of the Data Analysis Life Cycle:
 1. Prepare (Importing dataset)
 2. Process (Data Cleaning and Data Manipulation)
